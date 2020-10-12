@@ -6,8 +6,13 @@ ___
 This was a team profile generator using Javascript, the Inquirer NPM , Node, and Jest for testing.
 
 **Extra:**
+Somethings that might not be immediately obvious are when giving the option of which role each employee, besides manager, 
 
 **Other:**
+
+![javascript badge](https://img.shields.io/badge/We%20Stan-Javascript-brightgreen)
+![node badge](https://img.shields.io/badge/Handcrafted%20w%2F-Node.js-yellowgreen)
+![jest badge](https://img.shields.io/badge/Tested%20w%2F-Jest-blueviolet)
 
 ## Table of Contents 
 
@@ -39,11 +44,11 @@ Then follow the question prompt in your terminal.
 
 ## Credits
 
-I got help from the TAs and my tutor.
+I got help from the TAs and my tutor!
 
 ## How You Can Contribute
 
-If you find issues open up an issue on the original repo!
+If you find issues open up an issue on the [original](https://github.com/cat-lin-morgan/team-profile-generator) repo.
 
 ## How You Can Test My Application
 
@@ -61,7 +66,7 @@ If you'd like to ask further questions you can reach me via [GitHub](https://git
 
 
 #### Screenshot
-<img src='./assets/images/readmescreenshot.png' alt='Screenshot of the generated Team Profile.'/>
+<img src='./assets/teamprofilescreenshot.png' alt='Screenshot of the generated Team Profile.'/>
 
 
 ___Thank you___

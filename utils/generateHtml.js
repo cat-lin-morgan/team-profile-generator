@@ -25,7 +25,7 @@ const copyFile = () => {
             }
             resolve({
                 ok: true,
-                message: 'Style sheet copied!'
+                message: 'Style sheet recaptured!'
             });
         })
     })
