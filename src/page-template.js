@@ -57,7 +57,6 @@ const generatePage = (team) => {
     const {manager, staff} = team;
     let staffHtml = '';
     staff.forEach((staffMember) => {
-        // console.log(staffMember);
         if (staffMember.getRole() === 'Engineer') {
             staffHtml += generateEngineer(staffMember);
         } else if (staffMember.getRole() === 'Intern') {

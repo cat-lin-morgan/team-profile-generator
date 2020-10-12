@@ -62,7 +62,7 @@ If you'd like to ask further questions you can reach me via [GitHub](https://git
 
 #### Video Walk-thru
 
-[Click here to view my walk-thru of the Team Profile generator.](https://drive.google.com/file/d/15rRuavutwF-W-ujjjMWMEkmaiwdeEWRs/view?usp=sharing "Teaam Profile Generator")
+[Click here to view my walk-thru of the Team Profile generator.](https://drive.google.com/file/d/1Q8vp-1fZ7cg3OsTJbhGm62kSG7w4Rmwf/view?usp=sharing "Team Profile Generator")
 
 
 #### Screenshot
