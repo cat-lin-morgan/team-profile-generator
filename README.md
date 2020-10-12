@@ -64,7 +64,10 @@ If you'd like to ask further questions you can reach me via [GitHub](https://git
 
 #### Video Walk-thru
 
-[Click here to view my walk-thru of the Team Profile generator.](https://drive.google.com/file/d/1Q8vp-1fZ7cg3OsTJbhGm62kSG7w4Rmwf/view?usp=sharing "Team Profile Generator")
+[Click here to view my walk-thru of How to Use the Team Profile Generator.](https://drive.google.com/file/d/1Q8vp-1fZ7cg3OsTJbhGm62kSG7w4Rmwf/view?usp=sharing "Team Profile Generator")
+
+
+[Click here to view my tests of the Profile Generator.](https://drive.google.com/file/d/1zvaBIbf9BjLQVp399r4ll_5ipmtcTfQi/view?usp=sharing "Testing theTeam Profile Generator")
 
 
 #### Screenshot
