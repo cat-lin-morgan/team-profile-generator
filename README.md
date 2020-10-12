@@ -8,6 +8,8 @@ This was a team profile generator using Javascript, the Inquirer NPM , Node, and
 **Extra:**
 Something that might not be immediately obvious are when giving the option of which role each employee gets, besides the manager, will unlock each own's respective secondary question.
 
+I also added input validation to all my questions.
+
 **Other:** I added clickability to all links and added extra icons for fun.
 
 ![javascript badge](https://img.shields.io/badge/We%20Stan-Javascript-brightgreen)
