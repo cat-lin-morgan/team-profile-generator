@@ -2,9 +2,33 @@ header {
     background-color: black;
     color: white;
     font-size: 20px;
-    padding: 15px 20px,
+    padding: 15px 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.row {
+    margin-right: 0px;
 }
 
 .card {
-    margin: 5px;
+    margin-top: 18px;
+    margin-right: 2px;
+}
+
+.card-title {
+    font-size: 1.75em;
+}
+
+.card-title i {
+    margin-right: 5px;
+}
+
+.card-header {
+    font-size: 2em;
+}
+
+.list-group-item i {
+    font-size: 15px;
+    margin-right: 5px;
 }
