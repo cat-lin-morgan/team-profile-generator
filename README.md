@@ -38,7 +38,7 @@ You'll need to install Jest to test!
 
 ## Usage
 
-Invoke the application with 
+Invoke the application with :
 
 ```node Index.js```
 
